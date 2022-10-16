@@ -1,2 +1,1 @@
-# Whoam
-Screet
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=2000&color=07F700&background=000000&vCenter=true&width=435&lines=Don't+ask+questions%2C+and+get+out+of+here;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
